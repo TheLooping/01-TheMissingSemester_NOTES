@@ -60,7 +60,8 @@ y ： 将字符转换成一个新的字符
 -   不带参数，为POSIX BRE模式
 -   带参数`-E`，为POSIX ERE模式，
 -   带参数`-P`，为PCRE模式
-	![](attachment/Pasted%20image%2020230307212939%201.png)
+
+![](attachment/Pasted%20image%2020230307212939%201.png)
 
 `-E` 后`+?{}()` 均不需要转义符
 
