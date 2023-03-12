@@ -2,7 +2,7 @@
 
 ## 1 模式切换
 
-![[Pasted image 20230306182329.png]]
+![](attachment/Pasted%20image%2020230306182329%201.png)
 
 
 #### 1.1 命令-->插入

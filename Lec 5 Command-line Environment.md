@@ -10,10 +10,8 @@ cman signal #查看中文版
 tldr kill 
 kill -l# 查看信号名字及其序号（没有解释）
 ```
-![[Pasted image 20230311122216.png]]
-
-![[Pasted image 20230311122856.png]]
-
+![Pasted image 20230311122216](attachment/Pasted%20image%2020230311122216%201.png)
+![](attachment/Pasted%20image%2020230311122856%201.png)
 
 ```shell
 jobs # 查看当前所有进程
@@ -115,7 +113,7 @@ ssh foo@bar.mit.edu # 域名也可
 操作方便
 
 注意：.NAT模式和桥接模式区别
-![[Pasted image 20230311182639.png]]
+![](attachment/Pasted%20image%2020230311182639%201.png)
 
 .NAT模式下
 虚拟机可以ping通宿主机，*反之不能*

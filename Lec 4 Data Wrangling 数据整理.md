@@ -60,7 +60,7 @@ y ： 将字符转换成一个新的字符
 -   不带参数，为POSIX BRE模式
 -   带参数`-E`，为POSIX ERE模式，
 -   带参数`-P`，为PCRE模式
-![[Pasted image 20230307212939.png]]
+![](attachment/Pasted%20image%2020230307212939%201.png)
 `-E` 后`+?{}()` 均不需要[[Lec 4 Data Wrangling 数据整理#^0751b2|转义符]]
 
 `PCRE`更加简洁方便：
@@ -260,8 +260,9 @@ find /sbin -perm +700 |xargs ls -l   #这样才是正确的
 
 #### 附表
 
-![[Pasted image 20230307215114.png]]
+![](attachment/Pasted%20image%2020230307215114%201.png)
 
-![[Pasted image 20230307215131.png]]
+![](attachment/Pasted%20image%2020230307215131%201.png)
 
-![[Pasted image 20230307215204.png]]
+
+![](attachment/Pasted%20image%2020230307215204%201.png)
