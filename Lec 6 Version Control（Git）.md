@@ -43,3 +43,9 @@ bottom-up更易于理解
 
 ## [[Lec 6+ Gitkraken 最新版v9.x破解教程]]
 
+
+
+
+
+[Lec 6 Version Control（Git）](Lec%206%20Version%20Control（Git）.md)
+
