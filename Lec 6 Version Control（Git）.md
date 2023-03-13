@@ -41,7 +41,7 @@ bottom-up更易于理解
 ![](attachment/Pasted%20image%2020230312222832%201.png)
 
 
-## [[Lec 6+ Gitkraken 最新版v9.x破解教程]]
+## [[Lec 6+Gitkraken]]
 
 
 
